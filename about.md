@@ -1,20 +1,33 @@
 ---
 layout: page
-title: About Pixyll
+title: About Us
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+<html>
+    <body>
+        <h2>
+            <center><b>Our Team</b></center>
+        </h2>
+    </body>
+</html>
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Our team is Topgun material, made up of the best of the best of the best.
 
-Thanks to the following:
+----------
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+{% include team.html %}
+
+----------
+
+<html>
+    <body>
+        <h2>
+            <center><b>Our Mission</b></center>
+        </h2>
+    </body>
+</html>
+
+As the United Innovators, we aim to inspire underrepresented people to enter the STEM pipeline and to give people the resources they need to pursue 
+their interest in STEM.

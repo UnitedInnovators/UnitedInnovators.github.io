@@ -1,10 +1,13 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+title: United Innovators
+email: theunitedinnovators@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  As the United Innovators, we aim to inspire underrepresented people to enter the STEM pipeline and to give people the resources they need to pursue 
+  their interest in STEM.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://unitedinnovators.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  UnitedInnovators
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -17,19 +20,19 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
-enable_anchorjs: false
+enable_anchorjs: true
 
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id: false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -42,7 +45,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: UnitedInnovators
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -57,17 +60,17 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
-share_hackernews: false
+share_hackernews: true
 
 text:
   pagination:
@@ -103,6 +106,8 @@ text:
   og_locale: 'en_US'
 
 # Build settings
+collections:
+  team_members:
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
