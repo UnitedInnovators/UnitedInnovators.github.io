@@ -1,28 +1,14 @@
-# Pixyll
+# United Innovators
 
-[pixyll.com](http://www.pixyll.com)
+We are a team of diverse high school students from all over Chicago with the goal of increasing diversity in STEM.
 
-![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
+Backed by the Global Leaders Program, an organisation funded by the Illinois Institute of Technology, as well as several other partners such as Burns SMCD, we are driven to put a real dent in the issue of diversity in STEM by inspirining those undereprensentw .
 
-Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
+## Our Project
 
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
+To accomplish our goal, we are using a multipronged approach. On one hand, 
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
 
-中文版 <https://github.com/ee0703/pixyll-zh-cn>.
-
-## Getting Started
-
-If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
-
-```
-$ git clone git@github.com:johnotander/pixyll.git
-$ cd pixyll
-$ gem install bundler # If you don't have bundler installed
-$ bundle install
-```
 
 If you don't want to install anything in your local machine, you can create a free development environment for this Pixyll project in the cloud on [Nitrous.io](https://www.nitrous.io) by clicking the button below.
 
