@@ -11,7 +11,7 @@ github_username:  UnitedInnovators
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification:RfwhDQwA2yaFjWRHt7tU8Dv_pdCdbJBxt_PjbNlrsdg
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
 google_analytics:
