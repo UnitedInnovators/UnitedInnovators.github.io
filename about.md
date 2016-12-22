@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 permalink: /about/
+summary: We are the United Innovators, a Chicago based team dedicated to increasing diversity in STEM.
 tags: about
 ---
 We are a team of diverse high school students from all over Chicago with the goal of increasing diversity in STEM.
