@@ -2,8 +2,7 @@
 title: United Innovators
 email: theunitedinnovators@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  As the United Innovators, we aim to inspire underrepresented people to enter the STEM pipeline and to give people the resources they need to pursue 
-  their interest in STEM.
+  We are the United Innovators, a Chicago based team dedicated to increasing diversity in STEM.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unitedinnovators.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
