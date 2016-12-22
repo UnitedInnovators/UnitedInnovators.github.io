@@ -1,10 +1,10 @@
-# United Innovators {#top-of-about}
+# United Innovators
 
 We are a team of diverse high school students from all over Chicago with the goal of increasing diversity in STEM.
 
 Backed by the Global Leaders Program, an organization funded by the Illinois Institute of Technology, as well as several other partners such as [Burns SMCD](http://www.burnsmcd.com/ "Company website"), we are driven to put a real dent in the issue of diversity in STEM by inspiring those underrepresented.
 
-## Our Project
+# Our Project
 
 To accomplish our goal, we are using a multi-pronged approach:
 
