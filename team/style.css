@@ -122,6 +122,10 @@ body {
 
 
 /* Rows Optimization */
+.row3 {
+	padding-bottom: 40px;
+}
+
 .row2 {
 	padding-bottom: 40px;
 }
