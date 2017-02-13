@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   We are the United Innovators, a Chicago based team dedicated to increasing diversity in STEM.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://unitedinnovators.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: U_Innovators
 github_username:  UnitedInnovators
 date_format: "%b %-d, %Y"
 
@@ -20,7 +20,7 @@ bing_verification:
 
 # Optional features
 animated:             true
-show_related_posts:   false
+show_related_posts:   true
 show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
@@ -47,7 +47,7 @@ facebook_comments_number: 10
 github_username: UnitedInnovators
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: U_Innovators
 skype_username:
 steam_nickname:
 google_plus_id:
