@@ -4,7 +4,7 @@ email: theunitedinnovators@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   We are the United Innovators, a Chicago based team dedicated to increasing diversity in STEM.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://unitedinnovators.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://unitedinnovators.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: U_Innovators
 github_username:  UnitedInnovators
 date_format: "%b %-d, %Y"
