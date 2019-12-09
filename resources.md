@@ -16,6 +16,7 @@ tags: resources
 
 # Really Cool Websites with a lot of Info 
 * [http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/](http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/)
+* [https://www.titlemax.com/articles/title-pros-tinkering-guide/](https://www.titlemax.com/articles/title-pros-tinkering-guide/) (a suggestion from one of our visitors!)
 
 # Programs 
 * [https://www.teenlife.com/category/stem/](https://www.teenlife.com/category/stem/)
