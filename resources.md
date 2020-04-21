@@ -14,11 +14,12 @@ tags: resources
 * [http://www.nacme.org/](http://www.nacme.org/)
 
 
-# Really Cool Websites with a lot of Info 
+# Really Cool Websites with a lot of Info
 * [http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/](http://www.mastersindatascience.org/blog/the-ultimate-stem-guide-for-kids-239-cool-sites-about-science-technology-engineering-and-math/)
 * [https://www.titlemax.com/articles/title-pros-tinkering-guide/](https://www.titlemax.com/articles/title-pros-tinkering-guide/) (a suggestion from one of our visitors!)
+* [http://ithare.com/fields-of-engineering-overview/](http://ithare.com/fields-of-engineering-overview/) (a suggestion from another visitor!)
 
-# Programs 
+# Programs
 * [https://www.teenlife.com/category/stem/](https://www.teenlife.com/category/stem/)
 * [http://engineeringforkids.com/programs](http://engineeringforkids.com/programs)
 * [https://www.kidsstemstudio.com/](https://www.kidsstemstudio.com/)
